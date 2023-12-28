@@ -8,7 +8,7 @@
 
 ## Logo
 
-![Logo Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/logo.png)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/logo.png" width="200">
 
 ## Latar Belakang
 
@@ -30,36 +30,36 @@ Dalam aplikasi ini, pengguna dapat melakukan beberapa hal berikut:
 
 #### Splash Screen
 
-![Splash Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/splash.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/splash.jpeg" width="200">
 
 #### Main Screen
 
-![Main Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/front.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/front.jpeg" width="200">
 
 #### Add New Contact Screen
 
-![Add Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input.jpeg" width="200">
 
 #### Select Date
 
-![Date Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/date.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/date.jpeg" width="200">
 
 #### Select Profile Picture
 
-![PP Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/gallery.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/gallery.jpeg" width="200">
 
 #### Text typing
 
-![Key Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input_key.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input_key.jpeg" width="200">
 
 #### Single List
 
-![Single Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card1.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card1.jpeg" width="200">
 
 #### Multi List
 
-![Multi Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card2.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card2.jpeg" width="200">
 
 #### Update Contact
 
-![Update Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/edit_dialog.jpeg)
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/edit_dialog.jpeg" width="200">

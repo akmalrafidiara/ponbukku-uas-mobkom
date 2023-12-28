@@ -28,11 +28,11 @@ Dalam aplikasi ini, pengguna dapat melakukan beberapa hal berikut:
 
 ## Struktur Direktori Aplikasi
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/tree.png">
+![tree](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/tree.png)
 
 ## Struktur Database
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/db.png">
+![db](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/db.png)
 
 ## Desain Aplikasi
 

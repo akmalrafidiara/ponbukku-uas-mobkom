@@ -10,7 +10,9 @@
 
 [Github Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom "Github Ponbukku")
 
-[Video Demo](https://youtube.com "Video Demo")
+[Video Demo](https://youtu.be/_-9_c3rEkzA "Video Demo")
+
+[Download .apk](https://raw.githubusercontent.com/akmalrafidiara/ponbukku-uas-mobkom/main/releases/ponbukku.apk "Download .apk")
 
 ## Logo
 

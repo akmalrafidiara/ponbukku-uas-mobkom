@@ -38,36 +38,36 @@ Dalam aplikasi ini, pengguna dapat melakukan beberapa hal berikut:
 
 #### Splash Screen
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/splash.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/splash.jpeg" width="150">
 
 #### Main Screen
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/front.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/front.jpeg" width="150">
 
 #### Add New Contact Screen
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input.jpeg" width="150">
 
 #### Select Date
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/date.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/date.jpeg" width="150">
 
 #### Select Profile Picture
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/gallery.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/gallery.jpeg" width="150">
 
 #### Text typing
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input_key.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input_key.jpeg" width="150">
 
 #### Single List
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card1.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card1.jpeg" width="150">
 
 #### Multi List
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card2.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card2.jpeg" width="150">
 
 #### Update Contact
 
-<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/edit_dialog.jpeg" width="100">
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/edit_dialog.jpeg" width="150">

@@ -8,7 +8,7 @@
 
 ## Logo
 
-![Logo Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/releases/dokum-img/logo.png)
+![Logo Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/logo.png)
 
 ## Latar Belakang
 

@@ -27,3 +27,39 @@ Dalam aplikasi ini, pengguna dapat melakukan beberapa hal berikut:
 - Langsung menghubungi kontak melalui aplikasi seperti telepon, SMS, email, dan whatsapp
 
 ## Desain Aplikasi
+
+#### Splash Screen
+
+![Splash Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/splash.png)
+
+#### Main Screen
+
+![Main Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/front.png)
+
+#### Add New Contact Screen
+
+![Add Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input.png)
+
+#### Select Date
+
+![Date Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/date.png)
+
+#### Select Profile Picture
+
+![PP Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/gallery.png)
+
+#### Text typing
+
+![Key Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input_key.png)
+
+#### Single List
+
+![Single Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card1.png)
+
+#### Multi List
+
+![Multi Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card2.png)
+
+#### Update Contact
+
+![Update Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/edit_dialog.png)

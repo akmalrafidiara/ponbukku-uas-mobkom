@@ -30,36 +30,36 @@ Dalam aplikasi ini, pengguna dapat melakukan beberapa hal berikut:
 
 #### Splash Screen
 
-![Splash Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/splash.png)
+![Splash Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/splash.jpeg)
 
 #### Main Screen
 
-![Main Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/front.png)
+![Main Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/front.jpeg)
 
 #### Add New Contact Screen
 
-![Add Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input.png)
+![Add Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input.jpeg)
 
 #### Select Date
 
-![Date Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/date.png)
+![Date Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/date.jpeg)
 
 #### Select Profile Picture
 
-![PP Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/gallery.png)
+![PP Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/gallery.jpeg)
 
 #### Text typing
 
-![Key Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input_key.png)
+![Key Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/input_key.jpeg)
 
 #### Single List
 
-![Single Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card1.png)
+![Single Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card1.jpeg)
 
 #### Multi List
 
-![Multi Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card2.png)
+![Multi Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/card2.jpeg)
 
 #### Update Contact
 
-![Update Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/edit_dialog.png)
+![Update Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/edit_dialog.jpeg)

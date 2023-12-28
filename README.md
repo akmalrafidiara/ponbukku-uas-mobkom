@@ -26,6 +26,14 @@ Dalam aplikasi ini, pengguna dapat melakukan beberapa hal berikut:
 - Menambahkan foto profile kontak
 - Langsung menghubungi kontak melalui aplikasi seperti telepon, SMS, email, dan whatsapp
 
+## Struktur Direktori Aplikasi
+
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/tree.png" width="150">
+
+## Struktur Database
+
+<img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/db.png" width="300">
+
 ## Desain Aplikasi
 
 #### Splash Screen

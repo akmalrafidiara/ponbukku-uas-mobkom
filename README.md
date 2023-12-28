@@ -6,6 +6,12 @@
 - NIM : 1313621007
 - Ilmu Komputer 2021
 
+## Links
+
+[Github Ponbukku](https://github.com/akmalrafidiara/ponbukku-uas-mobkom "Github Ponbukku")
+
+[Video Demo](https://youtube.com "Video Demo")
+
 ## Logo
 
 <img src="https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/logo.png" width="150">
@@ -33,6 +39,21 @@ Dalam aplikasi ini, pengguna dapat melakukan beberapa hal berikut:
 ## Struktur Database
 
 ![db](https://github.com/akmalrafidiara/ponbukku-uas-mobkom/blob/main/releases/dokum-img/db.png)
+
+## Tools
+
+- Android Studio
+- SQLite
+- Git
+- Github
+- Canva
+
+## Intent Disematkan
+
+- Intent untuk mengirim pesan SMS
+- Intent untuk mengirim email
+- Intent untuk mengirim pesan WhatsApp
+- Intent untuk melakukan panggilan telepon
 
 ## Desain Aplikasi
 
